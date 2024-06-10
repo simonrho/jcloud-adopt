@@ -1,0 +1,27 @@
+{
+    "api": {
+        "server": {
+            "mist1": { "url": "https://api.mist.com/api/v1", "name": "Global 01" },
+            "mist2": { "url": "https://api.gc1.mist.com/api/v1", "name": "Global 02" },
+            "mist3": { "url": "https://api.ac2.mist.com/api/v1", "name": "Global 03" },
+            "mist4": { "url": "https://api.gc2.mist.com/api/v1", "name": "Global 04" },
+            "mist5": { "url": "https://api.ac99.mist.com/api/v1", "name": "Global 99" },
+            "mist6": { "url": "https://api.eu.mist.com/api/v1", "name": "EMEA 01" },
+            "mist7": { "url": "https://api.gc3.mist.com/api/v1", "name": "EMEA 02" },
+            "mist8": { "url": "https://api.ac5.mist.com/api/v1", "name": "APAC 01" },
+            "jsi1": { "url": "https://jsi.ai.juniper.net/api/v1", "name": "Global 01" },
+            "ra1": { "url": "https://routing.ai.juniper.net/api/v1", "name": "Global 01" }
+        },
+        "default": "jsi1"
+    },
+    "org": {
+        "your org name1": {
+            "id": "your org id1",
+            "token": "your org1's api token"
+        },
+        "your org name2": {
+            "id": "your org id2",
+            "token": "your org2's api token"
+        }
+    }
+}
