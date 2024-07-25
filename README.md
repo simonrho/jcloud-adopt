@@ -50,28 +50,6 @@ The Excel file should contain the following columns:
 |  7 | JSI Demo Company - ACME | Site-01 | 192.168.1.108 |   22   | poc        | ******     |
 |  8 | JSI Demo Company - ACME | Site-02 | 192.168.1.109 |   22   | poc        | ******     |
 |  9 | JSI Demo Company - ACME | Site-02 | 192.168.1.110 |   22   | poc        | ******     |
-| 10 | JSI Demo Company - ACME | Site-02 | 192.168.1.111 |   22   | poc        | ******     |
-| 11 | JSI Demo Company - ACME | Site-02 | 192.168.1.112 |   22   | poc        | ******     |
-| 12 | JSI Demo Company - ACME | Site-02 | 192.168.1.113 |   22   | poc        | ******     |
-| 13 | JSI Demo Company - ACME | Site-02 | 192.168.1.114 |   22   | poc        | ******     |
-| 14 | JSI Demo Company - ACME | Site-02 | 192.168.1.115 |   22   | poc        | ******     |
-| 15 | JSI Demo Company - ACME | Site-02 | 192.168.1.116 |   22   | poc        | ******     |
-| 16 | JSI Demo Company - ACME | Site-03 | 192.168.1.117 |   22   | poc        | ******     |
-| 17 | JSI Demo Company - ACME | Site-03 | 192.168.1.118 |   22   | poc        | ******     |
-| 18 | JSI Demo Company - ACME | Site-03 | 192.168.1.119 |   22   | poc        | ******     |
-| 19 | JSI Demo Company - ACME | Site-03 | 192.168.1.120 |   22   | poc        | ******     |
-| 20 | JSI Demo Company - ACME | Site-03 | 192.168.1.121 |   22   | poc        | ******     |
-| 21 | JSI Demo Company - ACME | Site-03 | 192.168.1.122 |   22   | poc        | ******     |
-| 22 | JSI Demo Company - ACME | Site-03 | 192.168.1.123 |   22   | poc        | ******     |
-| 23 | JSI Demo Company - ACME | Site-03 | 192.168.1.124 |   22   | poc        | ******     |
-| 24 | JSI Demo Company - ACME | Site-04 | 192.168.1.125 |   22   | poc        | ******     |
-| 25 | JSI Demo Company - ACME | Site-04 | 192.168.1.126 |   22   | poc        | ******     |
-| 26 | JSI Demo Company - ACME | Site-04 | 192.168.1.127 |   22   | poc        | ******     |
-| 27 | JSI Demo Company - ACME | Site-04 | 192.168.1.128 |   22   | poc        | ******     |
-| 28 | JSI Demo Company - ACME | Site-04 | 192.168.1.129 |   22   | poc        | ******     |
-| 29 | JSI Demo Company - ACME | Site-04 | 192.168.1.130 |   22   | poc        | ******     |
-| 30 | JSI Demo Company - ACME | Site-04 | 192.168.1.131 |   22   | poc        | ******     |
-| 31 | JSI Demo Company - ACME | Site-04 | 192.168.1.132 |   22   | poc        | ******     |
 +----+-------------------------+---------+---------------+--------+------------+------------+
 ```
 
