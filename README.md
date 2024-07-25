@@ -81,7 +81,6 @@ python bulk-adopt.py devices.xlsx
 ```
 ## Settings
 The `settings.json` file should contain the API server URLs and organization details. Please add your organization information (organization ID, name(names must be unique) and API token). Additionally, make sure that `api.server.default` is configured to your target service and region.
-If only the JSI dedicated service is required, please set `using_jsi_term` to `true`.
 
 Example `settings.json`:
 
@@ -103,7 +102,6 @@ Example `settings.json`:
         },
         "default": "jsi1"
     },
-    "using_jsi_term": false,
     "org": {
         "your org name1": {
             "id": "your org id1",
